@@ -121,3 +121,22 @@ nav .menu ul li a{
     margin-top:1.5em;
     color: #fff;
 }
+
+/********about me********/
+
+.about-me{
+    width:100%;
+    height: 640px;
+    background:#fff;
+}
+
+.about-me-container{
+    width: 100%;
+    height:640px;
+    display:flex;
+    align-items:center;
+}
+
+.about-me-left img{
+    size: 100px;
+}
